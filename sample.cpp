@@ -1,3 +1,5 @@
+// super market billing project
+
 #include<iostream.h>
 #include<string.h>
 using namespace std;
