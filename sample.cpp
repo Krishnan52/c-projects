@@ -1,4 +1,4 @@
-// super market billing project
+// super market billing project using c++ language
 
 #include<iostream.h>
 #include<string.h>
