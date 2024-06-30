@@ -1,5 +1,5 @@
-#include
-#include
+#include<iostream.h>
+#include<conio.h>
 using namespace std;
 
 class list {
